@@ -4,7 +4,19 @@ body {
 	background-color: black;
 }
 
-.welcomeHeader {
+#welcomeHeader {
 	padding: 5px;
-	border: 2px solid white;
+	color: black !important;
+	position: fixed;
+	left: auto;
+	right: auto;
+	top: 0px;
+	right: auto;
+	text-align: center;
+}
+
+#headerBack {
+	background-color: white;
+	width: 100%;
+	height: 50px;
 }

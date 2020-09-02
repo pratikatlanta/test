@@ -1,0 +1,10 @@
+body {
+	font-family: helvetica;
+	color: white;
+	background-color: black;
+}
+
+.welcomeHeader {
+	padding: 5px;
+	border: 2px solid white;
+}
